@@ -125,7 +125,7 @@
                     days: 'ΗΜΕΡΕΣ',
                     hours: 'ΩΡΕΣ',
                     minutes: 'ΛΕΠΤΑ',
-                    seconds: 'ΔΕΥΤΕΡΟΛΕΠΤΑ',
+                    seconds: 'ΔΕΥΤ',
                     pluralLetter: ''
                 },
                 plural: true,
